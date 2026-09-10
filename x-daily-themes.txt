@@ -4,3 +4,7 @@
 水戸ホーリーホック|水戸ホーリーホック OR ホーリーホック OR hollyhock OR from:hollyhock_staff
 茨城ロボッツ|茨城ロボッツ OR Ibaraki Robots OR from:ibarakirobots
 鹿島アントラーズ|鹿島アントラーズ OR アントラーズ OR from:atlrs_official
+茨城県|茨城県 OR 茨城 OR Ibaraki Pref
+内閣|高市内閣 OR 高市総理 OR 高市首相 
+自民党|自民党 OR 自民 
+中革連|中道改革連合 OR 中革連 OR 立憲 OR 公明
