@@ -1,0 +1,6 @@
+# ibaraki-teams-x-daily テーマ一覧
+# 形式: 表示名|検索クエリ
+# #で始まる行は無視
+水戸ホーリーホック|水戸ホーリーホック OR ホーリーホック OR hollyhock OR from:hollyhock_staff
+茨城ロボッツ|茨城ロボッツ OR Ibaraki Robots OR from:ibarakirobots
+鹿島アントラーズ|鹿島アントラーズ OR アントラーズ OR from:atlrs_official
